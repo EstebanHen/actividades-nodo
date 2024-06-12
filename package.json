@@ -1,0 +1,10 @@
+{
+    "name": "algorithms",
+    "version": "1.00",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc"
+
+
+    }
+}
